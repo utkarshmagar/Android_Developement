@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="enter_first_no">Enter First No.</string>
+    <string name="result">RESULT</string>
+    <string name="Sum">+</string>
+    <string name="Subtraction">-</string>
+    <string name="Multiplication">*</string>
+    <string name="Division">/</string>
+    <string name="enter_second_no">Enter Second No.</string>
+    <string name="made_by">Made By :-</string>
+    <string name="utkarsh_sanjay_magar">Utkarsh Sanjay Magar</string>
+    <string name="todo">TODO</string>
+</resources>
